@@ -1,20 +1,21 @@
 # Modded Applications for Android
-Get premium modded applications for free without any virus or malwares, all files are scanned through VirusTotal.
+Get premium modded applications for free without any virus or malwares, all files are scanned through VirusTotal. You'll get latest and older both versions on modded apks.
 
 ---
 <br>
 
 # Index
 ## Applications List
-- **[Picsart](https.com)**
-- **[KineMaster](https.com)**
-- **[ZArchiver Pro](https://.com)**
-- **[MT Manager](https://.com)**
+- **[Picsart](#picsart)**
+- **[KineMaster](#kinemaster)**
+- **[ZArchiver Pro](#z-donate)**
+- **[MT Manager](#mt-manager)**
+- **[Troubleshooting & Fixes](#fixes)**
 
 ---
 <br>
 
-# Picsart
+# Picsart <a name=picsart></a>
 Picsart up-to-date premium mod apk for Anddroid, no virus or malwares scanned through [VirusTotal](https://www.virustotal.com/)
 
 **Key Features:**
@@ -30,14 +31,18 @@ Picsart up-to-date premium mod apk for Anddroid, no virus or malwares scanned th
 - Minimum 150MB of free storage; 300MB of free storage recommended
 - Arm64_v8a (64-bit) architecture
 
-**Current Version:** 69.69.69.GP
+<br>
+
+**Current Modded Version:** 26.9.4
+
+**Current Play Store Version:** 27.4.4
 
 ### To get the Picsart modded apk **[Click Here](https://.com)**
 
 ---
 <br>
 
-# KineMaster
+# KineMaster <a name=kinemaster></a>
 KineMaster up-to-date premium mod apk for Anddroid, no virus or malwares scanned through [VirusTotal](https://www.virustotal.com/)
 
 **Key Features:**
@@ -53,14 +58,18 @@ KineMaster up-to-date premium mod apk for Anddroid, no virus or malwares scanned
 - Minimum 300MB of free storage; 1GB of free storage recommended
 - Arm64_v8a (64-bit) architecture
 
-**Current Version:** 69.69.69.GP
+<br>
+
+**Current Modded Version:** 7.4.18.33462.GP
+
+**Current Play Store Version:** 7.6.21.34728.GP
 
 ### To get the KineMaster modded apk **[Click Here](https://.com)**
 
 ---
 <br>
 
-# ZArchiver Donate
+# ZArchiver Donate <a name=z-donate></a>
 ZArchiver Pro/Donate up-to-date premium mod apk for Anddroid, no virus or malwares scanned through [VirusTotal](https://www.virustotal.com/)
 
 **Key Features:**
@@ -76,14 +85,16 @@ ZArchiver Pro/Donate up-to-date premium mod apk for Anddroid, no virus or malwar
 - Minimum 25MB of free storage; 50MB of free storage recommended
 - Arm64_v8a (64-bit) architecture
 
-**Current Version:** 69.69.69.GP
+**Current Modded Version:** 1.0.10
+
+**Current Play Store Version:** 1.0.10
 
 ### To get the ZArchiver modded apk **[Click Here](https://.com)**
 
 ---
 <br>
 
-# MT Manager
+# MT Manager <a name=mt-manager></a>
 MT Manager up-to-date premium mod apk for Anddroid, no virus or malwares scanned through [VirusTotal](https://www.virustotal.com/)
 
 **Key Features:**
@@ -98,6 +109,16 @@ MT Manager up-to-date premium mod apk for Anddroid, no virus or malwares scanned
 - Minimum 30MB of free storage; 70MB of free storage recommended
 - Arm64_v8a (64-bit) architecture
 
-**Current Version:** 69.69.69.GP
+**Current Modded Version:** 2.18.3
+
+**Current Official Version:** 2.18.3
+
+**Note:-
 
 ### To get the Picsart modded apk **[Click Here](https://.com)**
+
+---
+<br>
+
+# Troubleshooting & Fixes <a name=fixes></a>
+
